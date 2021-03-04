@@ -5,6 +5,7 @@
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [React](https://pt-br.reactjs.org/)
+- [Next.JS](https://nextjs.org/)
 
 ## 💻 Projeto
 
