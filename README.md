@@ -4,8 +4,6 @@
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
 - [React](https://pt-br.reactjs.org/)
 
 ## 💻 Projeto
@@ -20,15 +18,14 @@ Passo-a-passo
 - 5.Quando o alarme tocar, fazer uma marcação em um papel para contabilizar a quantidade de intervalos.
 - 6.Se houver menos de 4 marcações, fazer uma pausa curta (3-5 minutos);
 - 7.Depois da quarta marcação, fazer uma pausa mais longa (10-30 minutos), zerando a contagem de marcações e retornando ao passo 1.
-💜 
+ 
 
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através dos links abaixo:
 
-- [Layout Web](https://www.figma.com/file/BXCihtXXh9p37lGsENV614/GoBarber?node-id=34%3A1180) 
-- [Layout Mobile](https://www.figma.com/file/BXCihtXXh9p37lGsENV614/GoBarber?node-id=0%3A1) 
+- [Layout Web](https://www.figma.com/file/buh0WtXEWOoRT07urFKrwB/Move.it-2.0-(Copy)-(Copy)?node-id=160%3A2761) 
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
