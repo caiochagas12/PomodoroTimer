@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A Técnica Pomodoro é um método de gerenciamento de tempo desenvolvido por Francesco Cirillo no final dos anos 1980. A técnica consiste na utilização de um cronômetro para dividir o trabalho em períodos de 25 minutos, separados por breves intervalos. A técnica deriva seu nome da palavra italiana pomodoro (tomate), como referência ao popular cronômetro gastronômico na forma dessa fruta. O método é baseado na ideia de que pausas frequentes podem aumentar a agilidade mental
+O PomodoroTimer é uma aplicação baseada na técnica de Pomodoro. A técnica consiste na utilização de um cronômetro para dividir o trabalho em períodos de 25 minutos, separados por breves intervalos. A técnica deriva seu nome da palavra italiana pomodoro (tomate), como referência ao popular cronômetro gastronômico na forma dessa fruta. O método é baseado na ideia de que pausas frequentes podem aumentar a agilidade mental
 
 Passo-a-passo
 - 1.Escolher e listar as tarefas a serem executadas;
@@ -18,6 +18,8 @@ Passo-a-passo
 - 5.Quando o alarme tocar, fazer uma marcação em um papel para contabilizar a quantidade de intervalos.
 - 6.Se houver menos de 4 marcações, fazer uma pausa curta (3-5 minutos);
 - 7.Depois da quarta marcação, fazer uma pausa mais longa (10-30 minutos), zerando a contagem de marcações e retornando ao passo 1.
+
+No final de cada ciclo, a aplicação notifica o usuário e lhe dá uma tarefa simples a ser feita, baseada em técnicas usadas para alogamento do corpo e dos olhos, afim de melhorar a experiencia do usuário durante o trabalho. A cada tarefa realizada, a aplicação lhe da uma quantidade de xp que vai acumulando e aumentando de nível.
  
 
 
@@ -29,6 +31,13 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
+<p align="center">
+  <img alt="Light" src="/mainlight.jpg" width="80%">
+</p>
+
+<p align="center">
+  <img alt="Light" src="/maindark.jpg" width="80%">
+</p>
 
 <p align="center">Desenvolvido com 💜 por Caio Vinicius</p>
 
